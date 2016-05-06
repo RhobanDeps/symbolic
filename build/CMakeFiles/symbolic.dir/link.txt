@@ -1,2 +1,0 @@
-/usr/bin/ar cr libsymbolic.a  CMakeFiles/symbolic.dir/symbolicc++.cpp.o
-/usr/bin/ranlib libsymbolic.a
