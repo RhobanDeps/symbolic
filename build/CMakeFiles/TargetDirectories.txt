@@ -1,0 +1,1 @@
+/home/gregwar/MetabotStudio/metabot/sym/build/CMakeFiles/symbolic.dir
