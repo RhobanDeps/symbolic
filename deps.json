@@ -1,7 +1,7 @@
 {
     "name": "rhobandeps/symbolic",
     "includes": ".",
-    "links": "build/libsymbolic.a",
+    "links": "build/libsymbolic.so",
     "build": [
         "mkdir -p build",
         "cd build",
